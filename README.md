@@ -171,18 +171,6 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedNoser22&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=6" width="40%"/>
-
-</div>
-
----
 
 ## Education
 
