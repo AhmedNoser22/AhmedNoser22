@@ -4,9 +4,18 @@
 
 ### Full Stack .NET & Angular Engineer
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/profile.jpg" width="130" style="border-radius:50%; border: 3px solid #FF6B35;" alt="Ahmed Noser"/>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
+[![Email](https://img.shields.io/badge/anoser681%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=FF6B35&style=for-the-badge&label=Profile+views)
 
 </div>
 
