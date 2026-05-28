@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+.NET+%26+Angular;Building+scalable+APIs+%26+real-time+systems;Clean+Architecture+%7C+SOLID+%7C+EF+Core;Open+to+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+.NET+%26+Angular;Building+scalable+APIs+%26+real-time+systems;Clean+Architecture+%7C+SOLID+%7C+EF+Core;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -167,10 +167,10 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedNoser22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedNoser22&theme=tokyonight&hide_border=true&background=0d1117&stroke=2ecc71&ring=2ecc71&fire=f39c12&currStreakLabel=2ecc71" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ecc71&text_color=c9d1d9&langs_count=6" width="40%"/>
 
 </div>
 
@@ -183,7 +183,7 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 | Degree | Institution | Period |
 |--------|-------------|--------|
 | **B.Sc. Computer & Information Sciences** | Mansoura University | 2022 – 2026 |
-| **Full Stack .NET Track** · *Certified* | Information Technology Institute (ITI) | Jul – Sep 2025 |
+| **Full Stack .NET Track** | Information Technology Institute (ITI) | Jul – Sep 2025 |
 
 </div>
 
