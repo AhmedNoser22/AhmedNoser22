@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+.NET+%26+Angular;Building+scalable+APIs+%26+real-time+systems;Clean+Architecture+%7C+SOLID+%7C+EF+Core;Open+to+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+.NET+%26+Angular;Building+scalable+APIs+%26+real-time+systems;Clean+Architecture+%7C+SOLID+%7C+EF+Core;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=0f3460&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=1abc9c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -167,10 +167,10 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedNoser22&theme=tokyonight&hide_border=true&background=0d1117&stroke=2ecc71&ring=2ecc71&fire=f39c12&currStreakLabel=2ecc71" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&icon_color=1abc9c&text_color=c9d1d9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedNoser22&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ecc71&text_color=c9d1d9&langs_count=6" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9&langs_count=6" width="40%"/>
 
 </div>
 
