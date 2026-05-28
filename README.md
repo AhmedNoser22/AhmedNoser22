@@ -2,7 +2,7 @@
 
 # Ahmed Noser
 
-### Full Stack .NET & Angular Engineer
+### Full Stack Developer | .NET & Angular
 
 <br/>
 
