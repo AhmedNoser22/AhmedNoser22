@@ -4,7 +4,7 @@
 
 # Ahmed Noser
 
-**Backend Engineer · .NET**
+**Full-Stack Developer | .NET & Angular**
 
 *Building scalable APIs, real-time systems, and clean architectures that solve real problems*
 
