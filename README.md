@@ -19,9 +19,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=1abc9c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -163,18 +160,6 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&icon_color=1abc9c&text_color=c9d1d9&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedNoser22&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9&langs_count=6" width="40%"/>
-
-</div>
-
----
 
 ## Education
 
