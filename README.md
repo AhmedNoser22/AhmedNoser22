@@ -1,30 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ahmed%20Noser&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20%26%20Angular%20Engineer&descAlignY=58&descSize=18&descColor=a8b2d8&animation=fadeIn" width="100%"/>
+# Ahmed Noser
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/AhmedNoser22">
-  <img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/profile.jpg" width="130" alt="Ahmed Noser" style="border-radius:50%; border: 3px solid #0f3460;"/>
-</a>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+.NET+%26+Angular;Building+scalable+APIs+%26+real-time+systems;Clean+Architecture+%7C+SOLID+%7C+EF+Core;Open+to+new+opportunities)](https://git.io/typing-svg)
-
-<br/>
+### Full Stack .NET & Angular Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
+[![Email](https://img.shields.io/badge/anoser681@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=FF6B35&style=for-the-badge&label=Profile+views)
 
 </div>
 
 ---
 
-## About Me
+## About me
 
 I'm a **Full Stack Engineer** from Mansoura, Egypt, specializing in **.NET** on the backend and **Angular** on the frontend — currently completing my B.Sc. in Computer & Information Sciences at Mansoura University.
 
@@ -36,7 +27,7 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 
 ---
 
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
@@ -72,13 +63,17 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 
 ---
 
-## Featured Projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Sunna3 — Maintenance Management Platform
+### 🔧 Sunna3 — Maintenance management platform
+
+![Maintenance](https://img.shields.io/badge/Maintenance-_-E67E22?style=flat-square)
+![Real--time](https://img.shields.io/badge/Real--time-SignalR-E74C3C?style=flat-square)
+![Workflow](https://img.shields.io/badge/Approval-Workflow-8E44AD?style=flat-square)
 
 > *Full-stack platform connecting tenants with qualified vendors through a transparent, structured workflow*
 
@@ -89,22 +84,26 @@ The idea: finding a trustworthy technician is harder than it should be. Sunna3 s
 - Real-time analytics dashboard with charts & reports
 - Multi-step approval workflow tracked live via SignalR
 - Secure in-platform payment on job completion
-- Full role-based isolation: Tenant · Manager · Vendor
+- Full role-based isolation: Tenant & Manager & Vendor
 
 **Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Clean Architecture`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://sunna3.vercel.app)
-[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sunna3)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedeisa10/Sunna3)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://sunna3.vercel.app)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sunna3)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedeisa10/Sunna3)
 
 </td>
 <td width="50%" valign="top">
 
-### TeleChat — Real-Time Communication App
+### 📡 Telechat — Real-time communication app
+
+![Video Calls](https://img.shields.io/badge/Video_Calls-WebRTC-1A9FD4?style=flat-square)
+![SignalR](https://img.shields.io/badge/Real--time-SignalR-2ECC71?style=flat-square)
+![Recording](https://img.shields.io/badge/Call_Recording-3498DB?style=flat-square)
 
 > *A full communication suite — not just a chat demo*
 
-Most .NET SignalR examples stop at text messages. TeleChat brings the features real apps have but most demos skip:
+Most .NET SignalR examples stop at text messages. Telechat brings the features real apps have but most demos skip:
 
 **Highlights:**
 - Live **video calls** with real-time camera streams
@@ -115,14 +114,18 @@ Most .NET SignalR examples stop at text messages. TeleChat brings the features r
 
 **Stack:** `.NET` `SignalR` `Angular` `TypeScript` `WebRTC` `WebSockets`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Telechat)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Telechat)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Questar — Exam & Certification Platform
+### 🎓 Questar — Exam & certification platform
+
+![Exams](https://img.shields.io/badge/Auto_Grading-Instant-27AE60?style=flat-square)
+![Certificates](https://img.shields.io/badge/Certificates-Auto_Issued-F39C12?style=flat-square)
+![Sessions](https://img.shields.io/badge/Live_Sessions-Timed-C0392B?style=flat-square)
 
 > *Automating the full testing lifecycle from session to certificate*
 
@@ -135,14 +138,17 @@ Most .NET SignalR examples stop at text messages. TeleChat brings the features r
 
 **Stack:** `.NET` `ASP.NET Core` `EF Core` `SQL Server`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Questar)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Questar)
 
 </td>
 <td width="50%" valign="top">
 
-### Other Projects
+### Other projects
 
 **[Liver Disease System](https://github.com/AhmedNoser22/Liver-Disease-System)**
+
+![Healthcare](https://img.shields.io/badge/Healthcare-Management-16A085?style=flat-square)
+
 Healthcare management platform for liver patients — appointments, medical records, and role-based access for doctors, nurses & admins.
 
 `ASP.NET Core` `EF Core` `SQL Server`
@@ -150,6 +156,9 @@ Healthcare management platform for liver patients — appointments, medical reco
 ---
 
 **[E-Commerce App](https://github.com/AhmedNoser22/ECom-App)**
+
+![Commerce](https://img.shields.io/badge/E--Commerce-Platform-E74C3C?style=flat-square)
+
 Full e-commerce backend — catalog, cart, order processing, payment integration & inventory tracking via clean REST API.
 
 `ASP.NET Core` `EF Core` `SQL Server`
@@ -160,6 +169,18 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 ---
 
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedNoser22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedNoser22&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNoser22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=6" width="40%"/>
+
+</div>
+
+---
 
 ## Education
 
@@ -176,7 +197,7 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 <div align="center">
 
-## Let's Connect
+## Let's connect
 
 I'm actively looking for full-stack or backend engineering opportunities.
 If you're building something interesting — let's talk.
@@ -184,9 +205,5 @@ If you're building something interesting — let's talk.
 [![Email](https://img.shields.io/badge/anoser681@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Noser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
 [![WhatsApp](https://img.shields.io/badge/01553545334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
