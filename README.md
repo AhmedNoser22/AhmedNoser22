@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
-[![Email](https://img.shields.io/badge/anoser681%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
+[![Email](https://img.shields.io/badge/%E2%80%8Banoser681%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedNoser22&color=FF6B35&style=for-the-badge&label=Profile+views)
@@ -208,7 +208,7 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 I'm actively looking for full-stack or backend engineering opportunities.
 If you're building something interesting — let's talk.
 
-[![Email](https://img.shields.io/badge/anoser681%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
+[![Email](https://img.shields.io/badge/%E2%80%8Banoser681%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Noser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
 [![WhatsApp](https://img.shields.io/badge/01553545334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
 
