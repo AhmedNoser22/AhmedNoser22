@@ -1,31 +1,25 @@
 <div align="center">
 
-# Ahmed Noser
-
-### Full Stack Developer | .NET & Angular
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/Nossa.jpg"
-     width="50%"
+     width="160"
+     style="border-radius: 50%;"
      alt="Ahmed Noser"/>
 
-<br/><br/>
+# Ahmed Noser
+
+### Full Stack Developer · .NET & Angular
 
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>&nbsp;
 <a href="mailto:anoser681@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>&nbsp;
 <a href="https://github.com/AhmedNoser22">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>&nbsp;
 <a href="https://portofolio-dusky-ten.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/>
 </a>
 
 </div>
@@ -185,7 +179,6 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 </table>
 
 ---
-
 
 ## Education
 
