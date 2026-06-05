@@ -1,26 +1,17 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/Nossa.jpg"
-     width="160"
-     style="border-radius: 50%;"
+     width="110"
      alt="Ahmed Noser"/>
 
 # Ahmed Noser
 
 ### Full Stack Developer · .NET & Angular
 
-<a href="https://linkedin.com/in/ahmed-noser-3363403b3">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>&nbsp;
-<a href="mailto:anoser681@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>&nbsp;
-<a href="https://github.com/AhmedNoser22">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-</a>&nbsp;
-<a href="https://portofolio-dusky-ten.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" width="40"/>
-</a>
+<a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
+<a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
+<a href="https://github.com/AhmedNoser22"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>&nbsp;
+<a href="https://portofolio-dusky-ten.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="30"/></a>
 
 </div>
 
@@ -200,8 +191,8 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 I'm actively looking for full-stack or backend engineering opportunities.
 If you're building something interesting — let's talk.
 
-[![Email](https://img.shields.io/badge/anoser681%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anoser681@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Ahmed_Noser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
-[![WhatsApp](https://img.shields.io/badge/01553545334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01553545334)
+<a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
+<a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 
 </div>
