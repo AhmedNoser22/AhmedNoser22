@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/Nossa.jpg" width="200" style="border-radius:50%; border: 3px solid #FF6B35;" alt="Ahmed Noser"/>
+<img src="https://raw.githubusercontent.com/AhmedNoser22/AhmedNoser22/main/Nossa.jpg" width="250" style="border-radius:60%; border: 10px solid #FF6B35;" alt="Ahmed Noser"/>
 
 <br/><br/>
 
