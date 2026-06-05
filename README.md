@@ -12,8 +12,21 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-noser-3363403b3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dusky-ten.vercel.app)
+<a href="https://linkedin.com/in/ahmed-noser-3363403b3">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:anoser681@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/AhmedNoser22">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://portofolio-dusky-ten.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+</a>
 
 </div>
 
