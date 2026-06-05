@@ -193,6 +193,6 @@ If you're building something interesting — let's talk.
 
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
-<a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" width="30" height="30"/></a>
+<a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/w-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&label=" height="30"/></a>
 
 </div>
