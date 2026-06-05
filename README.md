@@ -6,7 +6,7 @@
 
 # Ahmed Noser
 
-### Full Stack Developer · .NET & Angular
+### Full Stack Developer || .NET & Angular
 
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
