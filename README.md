@@ -191,8 +191,8 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 I'm actively looking for full-stack or backend engineering opportunities.
 If you're building something interesting — let's talk.
 
-<a href="mailto:anoser681@gmail.com"><img src="https://img.shields.io/badge/ -EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://img.shields.io/badge/ -0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/ -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/></a>
+<a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
+<a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" width="30" height="30"/></a>
 
 </div>
