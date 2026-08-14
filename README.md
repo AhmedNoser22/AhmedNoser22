@@ -124,6 +124,10 @@ Sard is a social platform for writers and readers, combining publishing, communi
 
 **Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Redis` `Hangfire` `Docker` `Stripe` `AI Models`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansard.vercel.app)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sard_Angular.git)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/sard.git)
+
 </td>
 </tr>
 <tr>
