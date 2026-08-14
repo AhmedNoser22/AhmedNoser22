@@ -45,6 +45,14 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-37474F?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-37474F?style=flat-square)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-1A6B54?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
@@ -95,6 +103,30 @@ The idea: finding a trustworthy technician is harder than it should be. Sunna3 s
 [![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedeisa10/Sunna3)
 
 </td>
+<td width="50%" valign="top">
+
+### ✍️ Sard — Social platform for writers & readers
+
+![AI](https://img.shields.io/badge/AI_Models-Writing_Assist-8E44AD?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-Cache_%2B_Pub%2FSub-DC382D?style=flat-square)
+![Hangfire](https://img.shields.io/badge/Background_Jobs-Hangfire-1A6B54?style=flat-square)
+
+> *سرد — publishing, communities, and AI writing assistance in one platform*
+
+Sard is a social platform for writers and readers, combining publishing, communities, real-time interaction, and AI models for writing assistance and content improvement. Built on Redis, real-time systems, and background jobs to deliver a fast, scalable experience, with tools for discovering, sharing, and publishing stories.
+
+**Highlights:**
+- Real-time social feed & group chat via SignalR, backed by **Redis** caching & pub/sub
+- **Hangfire** background jobs for notifications & async processing
+- Two integrated **AI models**: one corrects writing, one evaluates a novel's strengths/weaknesses and suggests improvements
+- **Stripe** integration for premium publishing & AI features
+- Dockerized services for consistent, scalable deployment
+
+**Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Redis` `Hangfire` `Docker` `Stripe` `AI Models`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📡 Telechat — Real-time communication app
