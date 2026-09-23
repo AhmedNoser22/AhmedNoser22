@@ -6,9 +6,7 @@
 
 # Ahmed Noser
 
-### Full Stack Developer || .NET & Angular
-
-<img src="https://img.shields.io/badge/Open_to_Work-Available_Now-27AE60?style=for-the-badge" alt="Open to work"/>
+### Backend Engineer | .NET
 
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
@@ -21,13 +19,13 @@
 
 ## About me
 
-I'm a **Full Stack Engineer** from Mansoura, Egypt, specializing in **.NET** on the backend and **Angular** on the frontend — currently completing my B.Sc. in Computer & Information Sciences at Mansoura University.
+I'm a **Backend Engineer** from Mansoura, Egypt, specializing in **.NET** on the backend and **Angular** on the frontend, currently completing my B.Sc. in Computer and Information Sciences at Mansoura University.
 
-I build production-grade systems end-to-end: from database design and clean API architecture with **ASP.NET Core** and **Entity Framework Core**, through real-time features with **SignalR** and **Redis**, background processing with **Hangfire**, to polished, component-driven frontends in **Angular** with TypeScript. I'm equally comfortable in both layers and I understand how they fit together.
+I build production-grade systems end-to-end, from database design and clean API architecture with **ASP.NET Core** and **Entity Framework Core**, through real-time features with **SignalR** and **Redis**, background processing with **Hangfire**, to polished, component-driven frontends in **Angular** with TypeScript. I'm equally comfortable in both layers and I understand how they fit together.
 
-Most of my recent work is backend-heavy: **high-performance real-time systems**, scalable APIs, and **event-driven** backends built for heavy traffic, complex workloads, and reliable performance. I like problems that move state correctly across multiple systems — payments, inventory, live chat — and I care as much about how a system fails as how it succeeds.
+Most of my recent work is backend-heavy, with **high-performance real-time systems**, scalable APIs, and **event-driven** backends built for heavy traffic, complex workloads, and reliable performance. I like problems that move state correctly across multiple systems like payments, inventory, and live chat, and I care as much about how a system fails as how it succeeds.
 
-My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain-Driven Design**, **role-based systems**, and building software that is maintainable — not just functional. I care about the reasoning behind every decision, not just making it work.
+My focus areas are **Clean Architecture**, **SOLID principles**, **CQRS**, **Event-Driven Design**, **role-based systems**, and building software that is maintainable, not just functional. I care about the reasoning behind every decision, not just making it work.
 
 > *Building software that is clean, reliable, and solves problems people actually have.*
 
@@ -35,7 +33,7 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain
 
 | 🎓 Certified | 📅 Graduating | 💻 Primary language |
 |:---:|:---:|:---:|
-| **ITI** — Full Stack .NET | **2026** — B.Sc. Computer Sci. | **C#** |
+| **ITI**, Full Stack .NET | **2026**, B.Sc. Computer Sci. | **C#** |
 
 </div>
 
@@ -43,10 +41,10 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain
 
 | Principle | What it means to me |
 |-----------|---------------------|
-| **Clean Architecture** | Business rules live at the center; frameworks and databases are details plugged in from the outside. |
-| **Onion Architecture** | Dependencies only point inward — the core logic never knows the infrastructure around it exists. |
+| **Clean Architecture** | Business rules live at the center. Frameworks and databases are details plugged in from the outside. |
+| **Onion Architecture** | Dependencies only point inward, and the core logic never knows the infrastructure around it exists. |
 | **CQRS** | Reads and writes take separate paths, each shaped for exactly what it needs to do. |
-| **Domain-Driven Design** | Entities own their rules and raise events when something meaningful happens, instead of being plain data bags. |
+| **Event-Driven Design** | Entities own their rules and raise events when something meaningful happens, so modules react without depending on each other. |
 
 ---
 
@@ -94,7 +92,7 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**DevOps & Infra**
+**DevOps and Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -119,25 +117,25 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ Sard — Social platform for writers & readers
+### ✍️ Sard, Social platform for writers and readers
 
 ![AI](https://img.shields.io/badge/AI_Models-Writing_Assist-8E44AD?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-Cache_%2B_Pub%2FSub-DC382D?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-Cache_and_Pub%2FSub-DC382D?style=flat-square)
 ![Hangfire](https://img.shields.io/badge/Background_Jobs-Hangfire-1A6B54?style=flat-square)
 
-> *سرد — publishing, communities, and AI writing assistance in one platform*
+> *سرد, publishing, communities, and AI writing assistance in one platform*
 
 Sard is a social platform for writers and readers, combining publishing, communities, real-time interaction, and AI models for writing assistance and content improvement. Built on Redis, real-time systems, and background jobs to deliver a fast, scalable experience, with tools for discovering, sharing, and publishing stories.
 
-**Highlights:**
+**Highlights**
 - Novel editor with chapters, drafts, and one-click publishing to the community
-- Real-time social feed, reactions & group chat via SignalR, backed by **Redis** caching & pub/sub
-- **Hangfire** background jobs for notifications, digests & async processing off the request thread
-- Two integrated **AI models**: one corrects grammar, style & phrasing while writing, one evaluates a novel's strengths/weaknesses and suggests improvements
-- **Stripe** integration for premium publishing & AI features
+- Real-time social feed, reactions, and group chat via SignalR, backed by **Redis** caching and pub/sub
+- **Hangfire** background jobs for notifications, digests, and async processing off the request thread
+- Two integrated **AI models**, one corrects grammar, style, and phrasing while writing, and one evaluates a novel's strengths and weaknesses and suggests improvements
+- **Stripe** integration for premium publishing and AI features
 - Dockerized services for consistent, scalable deployment
 
-**Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Redis` `Hangfire` `Docker` `Stripe` `AI Models`
+**Stack** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Redis` `Hangfire` `Docker` `Stripe` `AI Models`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansard.vercel.app)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sard_Angular.git)
@@ -146,28 +144,28 @@ Sard is a social platform for writers and readers, combining publishing, communi
 </td>
 <td width="50%" valign="top">
 
-### 📦 TradeSphere — ERP for import & distribution
+### 📦 TradeSphere, ERP for import and distribution
 
 ![ERP](https://img.shields.io/badge/ERP-Backend-2C3E50?style=flat-square)
 ![CQRS](https://img.shields.io/badge/CQRS-MediatR-512BD4?style=flat-square)
-![Events](https://img.shields.io/badge/Domain-Events-E74C3C?style=flat-square)
+![Events](https://img.shields.io/badge/Event--Driven-Events-E74C3C?style=flat-square)
 
 > *Tracking goods from purchase agreement to financial settlement*
 
-TradeSphere is an **ERP backend** for an import and distribution company — it tracks goods from the moment a purchase is agreed with a supplier through shipping, customs clearance, quality inspection, warehousing, sale, delivery, and financial settlement on both ends.
+TradeSphere is an **ERP backend** for an import and distribution company. It tracks goods from the moment a purchase is agreed with a supplier through shipping, customs clearance, quality inspection, warehousing, sale, delivery, and financial settlement on both ends.
 
-Built on **Clean Architecture** with a strict inward dependency direction, **CQRS** through MediatR, and domain-driven building blocks — rich entities that enforce their own status transitions and raise domain events instead of leaning on scattered service logic.
+Built on **Clean Architecture** with a strict inward dependency direction and **CQRS** through MediatR, using rich entities that enforce their own status transitions and raise events instead of leaning on scattered service logic.
 
-**Highlights:**
-- Shipment marked as arrived → a customs clearance case opens on its own
-- Completed quality inspection → inventory updates and the purchase order closes
-- Confirming an order or delivering a sale → the right payment record opens
-- All of it through **domain events**, without one module ever calling into another directly
-- Nine distinct roles, from procurement to finance to general management (RBAC + JWT)
+**Highlights**
+- When a shipment is marked as arrived, a customs clearance case opens on its own
+- When a quality inspection completes, inventory updates and the purchase order closes
+- Confirming an order or delivering a sale opens the right payment record
+- All of it runs through **events**, without one module ever calling into another directly
+- Nine distinct roles, from procurement to finance to general management, secured with RBAC and JWT
 - **Hangfire** jobs flag delayed customs clearances and low stock automatically
-- Cross-module dashboard rolling up receivables, payables, inventory value & delayed customs cases
+- Cross-module dashboard rolling up receivables, payables, inventory value, and delayed customs cases
 
-**Stack:** `.NET 10` `CQRS` `MediatR` `Clean Architecture` `DDD` `EF Core` `SQL Server` `Domain Events` `Hangfire` `JWT`
+**Stack** `.NET 10` `CQRS` `MediatR` `Clean Architecture` `Event-Driven Design` `EF Core` `SQL Server` `Hangfire` `JWT`
 
 [![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Backend-TradeSphere.git)
 
@@ -176,9 +174,9 @@ Built on **Clean Architecture** with a strict inward dependency direction, **CQR
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 DevMentor — AI interview, exam & certification platform
+### 🧠 DevMentor, AI interview, exam, and certification platform
 
-![AI](https://img.shields.io/badge/AI-Gemini_%2B_Groq-8E44AD?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Gemini_and_Groq-8E44AD?style=flat-square)
 ![Certificates](https://img.shields.io/badge/Certificates-QR_Verifiable-F39C12?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular_22-Zoneless-DD0031?style=flat-square)
 
@@ -186,18 +184,18 @@ Built on **Clean Architecture** with a strict inward dependency direction, **CQR
 
 DevMentor is an **AI-driven platform** for technical interview practice, timed exams, and verifiable certificates across **.NET, Angular, SQL, and System Design** tracks.
 
-**Highlights:**
-- **Clean Architecture** with four strict layers on the backend — business rules live inside the domain entities themselves
-- **Angular 22** standalone, signal-based, **zoneless** frontend — no NgModules
-- AI question generation & interview grading via **Google Gemini** (primary) with **Groq** as an automatic fallback
-- Admin-triggered question bank generation per domain & level, self-validated before approval
+**Highlights**
+- **Clean Architecture** with four strict layers on the backend, and business rules live inside the domain entities themselves
+- **Angular 22** standalone, signal-based, **zoneless** frontend with no NgModules
+- AI question generation and interview grading via **Google Gemini** as the primary provider, with **Groq** as an automatic fallback
+- Admin-triggered question bank generation per domain and level, self-validated before approval
 - Live turn-based AI interview that evaluates each answer and advances the conversation
 - Server-side auto-grading against a configurable pass threshold
-- Passing an exam issues a **QR-verifiable PDF certificate** (QuestPDF + QRCoder) tied to a public verification endpoint
-- ASP.NET Identity + **JWT** access/refresh tokens + **Google & GitHub OAuth** sign-in, refreshed transparently by an Angular interceptor
-- Backend covered by an **xUnit + Moq** test suite split by layer
+- Passing an exam issues a **QR-verifiable PDF certificate** generated with QuestPDF and QRCoder, tied to a public verification endpoint
+- ASP.NET Identity with **JWT** access and refresh tokens, plus **Google and GitHub OAuth** sign-in, refreshed transparently by an Angular interceptor
+- Backend covered by an **xUnit and Moq** test suite split by layer
 
-**Stack:** `.NET 10` `Angular 22` `Clean Architecture` `EF Core` `SQL Server` `Gemini AI` `Groq AI` `JWT` `OAuth2` `QuestPDF` `xUnit`
+**Stack** `.NET 10` `Angular 22` `Clean Architecture` `EF Core` `SQL Server` `Gemini AI` `Groq AI` `JWT` `OAuth2` `QuestPDF` `xUnit`
 
 [![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/DevMentor-Backend.git)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/DevMentor-Frontend.git)
@@ -205,7 +203,7 @@ DevMentor is an **AI-driven platform** for technical interview practice, timed e
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Sunna3 — Maintenance management platform
+### 🔧 Sunna3, Maintenance management platform
 
 ![Maintenance](https://img.shields.io/badge/Maintenance-_-E67E22?style=flat-square)
 ![Real--time](https://img.shields.io/badge/Real--time-SignalR-E74C3C?style=flat-square)
@@ -214,20 +212,20 @@ DevMentor is an **AI-driven platform** for technical interview practice, timed e
 
 > *Full-stack platform connecting tenants with qualified vendors through a transparent, structured workflow*
 
-The idea: finding a trustworthy technician is harder than it should be. Sunna3 solves this end-to-end — tenants raise tickets, vendors apply, managers oversee, and everything from execution to payment happens inside the platform.
+The idea is that finding a trustworthy technician is harder than it should be. Sunna3 solves this end-to-end. Tenants raise tickets, vendors apply, managers oversee, and everything from execution to payment happens inside the platform.
 
-Built with a teammate as a two-person project — we split the frontend and backend work between us over the course of development.
+Built with a teammate as a two-person project, and we split the frontend and backend work between us over the course of development.
 
-**Highlights:**
-- AI-assisted ticket creation & predictive maintenance alerts
-- Vendors apply; tenant reviews profiles, ratings & history, then accepts one
-- Real-time analytics dashboard with charts & reports
+**Highlights**
+- AI-assisted ticket creation and predictive maintenance alerts
+- Vendors apply, and the tenant reviews profiles, ratings, and history, then accepts one
+- Real-time analytics dashboard with charts and reports
 - Multi-step approval workflow tracked live via SignalR
-- Secure in-platform payment on job completion, followed by rating & review
-- Built-in escalation path to management (direct support)
-- Full role-based isolation: Tenant & Manager & Vendor
+- Secure in-platform payment on job completion, followed by rating and review
+- Built-in escalation path to management for direct support
+- Full role-based isolation for Tenant, Manager, and Vendor
 
-**Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Clean Architecture` `AI Models`
+**Stack** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Clean Architecture` `AI Models`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://sunna3.vercel.app)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sunna3)
@@ -238,31 +236,31 @@ Built with a teammate as a two-person project — we split the frontend and back
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Telechat — Real-time communication app
+### 📡 Telechat, Real-time communication app
 
 ![Video Calls](https://img.shields.io/badge/Video_Calls-WebRTC-1A9FD4?style=flat-square)
 ![SignalR](https://img.shields.io/badge/Real--time-SignalR-2ECC71?style=flat-square)
 ![Recording](https://img.shields.io/badge/Call_Recording-3498DB?style=flat-square)
 
-> *A full communication suite — not just a chat demo*
+> *A full communication suite, not just a chat demo*
 
-Most .NET SignalR examples stop at text messages. Telechat brings the features real apps have but most demos skip:
+Most .NET SignalR examples stop at text messages. Telechat brings the features real apps have but most demos skip.
 
-**Highlights:**
+**Highlights**
 - Live **video calls** with real-time camera streams
 - **Voice-only calls** for audio-focused sessions
 - **Call recording** so conversations aren't lost
 - Real-time messaging over WebSockets via SignalR
-- Angular frontend manages live connection state as calls open and close; .NET backend handles hub connections, call signaling & session tracking
+- Angular frontend manages live connection state as calls open and close, and the .NET backend handles hub connections, call signaling, and session tracking
 
-**Stack:** `.NET` `SignalR` `Angular` `TypeScript` `WebRTC` `WebSockets`
+**Stack** `.NET` `SignalR` `Angular` `TypeScript` `WebRTC` `WebSockets`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Telechat)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Questar — Exam & certification platform
+### 🎓 Questar, Exam and certification platform
 
 ![Exams](https://img.shields.io/badge/Auto_Grading-Instant-27AE60?style=flat-square)
 ![Certificates](https://img.shields.io/badge/Certificates-Auto_Issued-F39C12?style=flat-square)
@@ -270,14 +268,14 @@ Most .NET SignalR examples stop at text messages. Telechat brings the features r
 
 > *Automating the full testing lifecycle from session to certificate*
 
-**Highlights:**
+**Highlights**
 - Live exam sessions with enforced time limits
 - Instant auto-grading the moment a candidate submits
 - Detailed per-question result breakdowns
 - Automatic certificate issuance for passing candidates
-- Admin dashboard: question banks, pass thresholds, candidate tracking
+- Admin dashboard for question banks, pass thresholds, and candidate tracking
 
-**Stack:** `.NET` `ASP.NET Core` `EF Core` `SQL Server`
+**Stack** `.NET` `ASP.NET Core` `EF Core` `SQL Server`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Questar)
 
@@ -286,28 +284,28 @@ Most .NET SignalR examples stop at text messages. Telechat brings the features r
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare System — Liver patient management
+### 🏥 Healthcare System, Liver patient management
 
 ![Healthcare](https://img.shields.io/badge/Healthcare-Management-16A085?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-Doctors_%7C_Nurses_%7C_Admins-34495E?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Doctors_Nurses_Admins-34495E?style=flat-square)
 
-Liver patient management platform — appointment scheduling, medical records, and history tracking with strict role-based access for doctors, nurses & admins.
+Liver patient management platform with appointment scheduling, medical records, and history tracking, and strict role-based access for doctors, nurses, and admins.
 
-**Stack:** `ASP.NET Core` `EF Core` `SQL Server`
+**Stack** `ASP.NET Core` `EF Core` `SQL Server`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Liver-Disease-System)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 ECom Marketplace — Children's toy retail backend
+### 🛒 ECom Marketplace, Children's toy retail backend
 
 ![Commerce](https://img.shields.io/badge/E--Commerce-Platform-E74C3C?style=flat-square)
 ![REST](https://img.shields.io/badge/Clean-REST_API-009688?style=flat-square)
 
-E-commerce backend for children's toy retail — full product lifecycle: catalog, cart, order processing, payment integration & inventory tracking via a clean RESTful API.
+E-commerce backend for children's toy retail, covering the full product lifecycle of catalog, cart, order processing, payment integration, and inventory tracking via a clean RESTful API.
 
-**Stack:** `.NET` `REST API` `EF Core` `SQL Server`
+**Stack** `.NET` `REST API` `EF Core` `SQL Server`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/ECom-App)
 
@@ -323,14 +321,14 @@ E-commerce backend for children's toy retail — full product lifecycle: catalog
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **B.Sc. Computer & Information Sciences** | Mansoura University, Mansoura, Egypt | 2022 – 2026 |
-| **Full Stack .NET Track** — *Certified* | Information Technology Institute (ITI) | Jul – Sep 2025 |
+| **B.Sc. Computer and Information Sciences** | Mansoura University, Mansoura, Egypt | 2022 to 2026 |
+| **Full Stack .NET Track**, *Certified* | Information Technology Institute (ITI) | Jul to Sep 2025 |
 
 </div>
 
 ## Languages
 
-🇪🇬 **Arabic** &nbsp;•&nbsp; 🇬🇧 **English** &nbsp;•&nbsp; 🇩🇪 **German**
+Arabic, English, German
 
 ---
 
@@ -338,10 +336,12 @@ E-commerce backend for children's toy retail — full product lifecycle: catalog
 
 ## Let's connect
 
-I'm actively looking for full-stack or backend engineering opportunities — open to backend roles, collaborations, and interesting engineering challenges.
-If you're building something interesting — let's talk.
+I'm actively looking for backend or full-stack engineering opportunities, and I'm open to collaborations and interesting engineering challenges.
+If you're building something interesting, let's talk.
 
-📍 Mansoura, Egypt &nbsp;•&nbsp; 📧 [ahmednoseer2004@gmail.com](mailto:ahmednoseer2004@gmail.com) &nbsp;•&nbsp; 📞 01043186404
+📍 Mansoura, Egypt<br>
+📧 [ahmednoseer2004@gmail.com](mailto:ahmednoseer2004@gmail.com)<br>
+📞 01043186404
 
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
