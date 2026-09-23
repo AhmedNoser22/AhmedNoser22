@@ -8,6 +8,8 @@
 
 ### Full Stack Developer || .NET & Angular
 
+<img src="https://img.shields.io/badge/Open_to_Work-Available_Now-27AE60?style=for-the-badge" alt="Open to work"/>
+
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
 <a href="https://github.com/AhmedNoser22"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>&nbsp;
@@ -21,11 +23,30 @@
 
 I'm a **Full Stack Engineer** from Mansoura, Egypt, specializing in **.NET** on the backend and **Angular** on the frontend — currently completing my B.Sc. in Computer & Information Sciences at Mansoura University.
 
-I build production-grade systems end-to-end: from database design and clean API architecture with **ASP.NET Core** and **Entity Framework Core**, through real-time features with **SignalR**, to polished, component-driven frontends in **Angular** with TypeScript. I'm equally comfortable in both layers and I understand how they fit together.
+I build production-grade systems end-to-end: from database design and clean API architecture with **ASP.NET Core** and **Entity Framework Core**, through real-time features with **SignalR** and **Redis**, background processing with **Hangfire**, to polished, component-driven frontends in **Angular** with TypeScript. I'm equally comfortable in both layers and I understand how they fit together.
 
-My focus areas: **Clean Architecture**, **SOLID principles**, **role-based systems**, and building software that is maintainable — not just functional. I care about the reasoning behind every decision, not just making it work.
+Most of my recent work is backend-heavy: **high-performance real-time systems**, scalable APIs, and **event-driven** backends built for heavy traffic, complex workloads, and reliable performance. I like problems that move state correctly across multiple systems — payments, inventory, live chat — and I care as much about how a system fails as how it succeeds.
+
+My focus areas: **Clean Architecture**, **SOLID principles**, **CQRS**, **Domain-Driven Design**, **role-based systems**, and building software that is maintainable — not just functional. I care about the reasoning behind every decision, not just making it work.
 
 > *Building software that is clean, reliable, and solves problems people actually have.*
+
+<div align="center">
+
+| 🎓 Certified | 📅 Graduating | 💻 Primary language |
+|:---:|:---:|:---:|
+| **ITI** — Full Stack .NET | **2026** — B.Sc. Computer Sci. | **C#** |
+
+</div>
+
+### How I approach architecture
+
+| Principle | What it means to me |
+|-----------|---------------------|
+| **Clean Architecture** | Business rules live at the center; frameworks and databases are details plugged in from the outside. |
+| **Onion Architecture** | Dependencies only point inward — the core logic never knows the infrastructure around it exists. |
+| **CQRS** | Reads and writes take separate paths, each shaped for exactly what it needs to do. |
+| **Domain-Driven Design** | Entities own their rules and raise events when something meaningful happens, instead of being plain data bags. |
 
 ---
 
@@ -36,31 +57,49 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 **Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-37474F?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-37474F?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-37474F?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-37474F?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Minimal APIs](https://img.shields.io/badge/Minimal_APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-37474F?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-37474F?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Design-37474F?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-37474F?style=flat-square)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-1A6B54?style=flat-square)
+![Mapster](https://img.shields.io/badge/Mapster-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MailKit](https://img.shields.io/badge/MailKit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![QuestPDF](https://img.shields.io/badge/QuestPDF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Signals](https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools**
 
@@ -68,6 +107,7 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 </div>
 
@@ -77,32 +117,6 @@ My focus areas: **Clean Architecture**, **SOLID principles**, **role-based syste
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔧 Sunna3 — Maintenance management platform
-
-![Maintenance](https://img.shields.io/badge/Maintenance-_-E67E22?style=flat-square)
-![Real--time](https://img.shields.io/badge/Real--time-SignalR-E74C3C?style=flat-square)
-![Workflow](https://img.shields.io/badge/Approval-Workflow-8E44AD?style=flat-square)
-
-> *Full-stack platform connecting tenants with qualified vendors through a transparent, structured workflow*
-
-The idea: finding a trustworthy technician is harder than it should be. Sunna3 solves this end-to-end — tenants raise tickets, vendors apply, managers oversee, and everything from execution to payment happens inside the platform.
-
-**Highlights:**
-- AI-assisted ticket creation & predictive maintenance alerts
-- Real-time analytics dashboard with charts & reports
-- Multi-step approval workflow tracked live via SignalR
-- Secure in-platform payment on job completion
-- Full role-based isolation: Tenant & Manager & Vendor
-
-**Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Clean Architecture`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://sunna3.vercel.app)
-[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sunna3)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedeisa10/Sunna3)
-
-</td>
 <td width="50%" valign="top">
 
 ### ✍️ Sard — Social platform for writers & readers
@@ -116,9 +130,10 @@ The idea: finding a trustworthy technician is harder than it should be. Sunna3 s
 Sard is a social platform for writers and readers, combining publishing, communities, real-time interaction, and AI models for writing assistance and content improvement. Built on Redis, real-time systems, and background jobs to deliver a fast, scalable experience, with tools for discovering, sharing, and publishing stories.
 
 **Highlights:**
-- Real-time social feed & group chat via SignalR, backed by **Redis** caching & pub/sub
-- **Hangfire** background jobs for notifications & async processing
-- Two integrated **AI models**: one corrects writing, one evaluates a novel's strengths/weaknesses and suggests improvements
+- Novel editor with chapters, drafts, and one-click publishing to the community
+- Real-time social feed, reactions & group chat via SignalR, backed by **Redis** caching & pub/sub
+- **Hangfire** background jobs for notifications, digests & async processing off the request thread
+- Two integrated **AI models**: one corrects grammar, style & phrasing while writing, one evaluates a novel's strengths/weaknesses and suggests improvements
 - **Stripe** integration for premium publishing & AI features
 - Dockerized services for consistent, scalable deployment
 
@@ -127,6 +142,96 @@ Sard is a social platform for writers and readers, combining publishing, communi
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansard.vercel.app)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sard_Angular.git)
 [![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/sard.git)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 TradeSphere — ERP for import & distribution
+
+![ERP](https://img.shields.io/badge/ERP-Backend-2C3E50?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-MediatR-512BD4?style=flat-square)
+![Events](https://img.shields.io/badge/Domain-Events-E74C3C?style=flat-square)
+
+> *Tracking goods from purchase agreement to financial settlement*
+
+TradeSphere is an **ERP backend** for an import and distribution company — it tracks goods from the moment a purchase is agreed with a supplier through shipping, customs clearance, quality inspection, warehousing, sale, delivery, and financial settlement on both ends.
+
+Built on **Clean Architecture** with a strict inward dependency direction, **CQRS** through MediatR, and domain-driven building blocks — rich entities that enforce their own status transitions and raise domain events instead of leaning on scattered service logic.
+
+**Highlights:**
+- Shipment marked as arrived → a customs clearance case opens on its own
+- Completed quality inspection → inventory updates and the purchase order closes
+- Confirming an order or delivering a sale → the right payment record opens
+- All of it through **domain events**, without one module ever calling into another directly
+- Nine distinct roles, from procurement to finance to general management (RBAC + JWT)
+- **Hangfire** jobs flag delayed customs clearances and low stock automatically
+- Cross-module dashboard rolling up receivables, payables, inventory value & delayed customs cases
+
+**Stack:** `.NET 10` `CQRS` `MediatR` `Clean Architecture` `DDD` `EF Core` `SQL Server` `Domain Events` `Hangfire` `JWT`
+
+[![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Backend-TradeSphere.git)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DevMentor — AI interview, exam & certification platform
+
+![AI](https://img.shields.io/badge/AI-Gemini_%2B_Groq-8E44AD?style=flat-square)
+![Certificates](https://img.shields.io/badge/Certificates-QR_Verifiable-F39C12?style=flat-square)
+![Angular](https://img.shields.io/badge/Angular_22-Zoneless-DD0031?style=flat-square)
+
+> *Technical interview practice, timed exams, and verifiable certificates*
+
+DevMentor is an **AI-driven platform** for technical interview practice, timed exams, and verifiable certificates across **.NET, Angular, SQL, and System Design** tracks.
+
+**Highlights:**
+- **Clean Architecture** with four strict layers on the backend — business rules live inside the domain entities themselves
+- **Angular 22** standalone, signal-based, **zoneless** frontend — no NgModules
+- AI question generation & interview grading via **Google Gemini** (primary) with **Groq** as an automatic fallback
+- Admin-triggered question bank generation per domain & level, self-validated before approval
+- Live turn-based AI interview that evaluates each answer and advances the conversation
+- Server-side auto-grading against a configurable pass threshold
+- Passing an exam issues a **QR-verifiable PDF certificate** (QuestPDF + QRCoder) tied to a public verification endpoint
+- ASP.NET Identity + **JWT** access/refresh tokens + **Google & GitHub OAuth** sign-in, refreshed transparently by an Angular interceptor
+- Backend covered by an **xUnit + Moq** test suite split by layer
+
+**Stack:** `.NET 10` `Angular 22` `Clean Architecture` `EF Core` `SQL Server` `Gemini AI` `Groq AI` `JWT` `OAuth2` `QuestPDF` `xUnit`
+
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/DevMentor-Backend.git)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/DevMentor-Frontend.git)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Sunna3 — Maintenance management platform
+
+![Maintenance](https://img.shields.io/badge/Maintenance-_-E67E22?style=flat-square)
+![Real--time](https://img.shields.io/badge/Real--time-SignalR-E74C3C?style=flat-square)
+![Workflow](https://img.shields.io/badge/Approval-Workflow-8E44AD?style=flat-square)
+![Team](https://img.shields.io/badge/Team_Project-2_Developers-7F8C8D?style=flat-square)
+
+> *Full-stack platform connecting tenants with qualified vendors through a transparent, structured workflow*
+
+The idea: finding a trustworthy technician is harder than it should be. Sunna3 solves this end-to-end — tenants raise tickets, vendors apply, managers oversee, and everything from execution to payment happens inside the platform.
+
+Built with a teammate as a two-person project — we split the frontend and backend work between us over the course of development.
+
+**Highlights:**
+- AI-assisted ticket creation & predictive maintenance alerts
+- Vendors apply; tenant reviews profiles, ratings & history, then accepts one
+- Real-time analytics dashboard with charts & reports
+- Multi-step approval workflow tracked live via SignalR
+- Secure in-platform payment on job completion, followed by rating & review
+- Built-in escalation path to management (direct support)
+- Full role-based isolation: Tenant & Manager & Vendor
+
+**Stack:** `.NET` `Angular` `EF Core` `SQL Server` `SignalR` `Clean Architecture` `AI Models`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://sunna3.vercel.app)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Sunna3)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedeisa10/Sunna3)
 
 </td>
 </tr>
@@ -155,8 +260,6 @@ Most .NET SignalR examples stop at text messages. Telechat brings the features r
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Telechat)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎓 Questar — Exam & certification platform
@@ -179,27 +282,34 @@ Most .NET SignalR examples stop at text messages. Telechat brings the features r
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Questar)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### Other projects
-
-**[Liver Disease System](https://github.com/AhmedNoser22/Liver-Disease-System)**
+### 🏥 Healthcare System — Liver patient management
 
 ![Healthcare](https://img.shields.io/badge/Healthcare-Management-16A085?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Doctors_%7C_Nurses_%7C_Admins-34495E?style=flat-square)
 
-Healthcare management platform for liver patients — appointments, medical records, and role-based access for doctors, nurses & admins.
+Liver patient management platform — appointment scheduling, medical records, and history tracking with strict role-based access for doctors, nurses & admins.
 
-`ASP.NET Core` `EF Core` `SQL Server`
+**Stack:** `ASP.NET Core` `EF Core` `SQL Server`
 
----
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/Liver-Disease-System)
 
-**[E-Commerce App](https://github.com/AhmedNoser22/ECom-App)**
+</td>
+<td width="50%" valign="top">
+
+### 🛒 ECom Marketplace — Children's toy retail backend
 
 ![Commerce](https://img.shields.io/badge/E--Commerce-Platform-E74C3C?style=flat-square)
+![REST](https://img.shields.io/badge/Clean-REST_API-009688?style=flat-square)
 
-Full e-commerce backend — catalog, cart, order processing, payment integration & inventory tracking via clean REST API.
+E-commerce backend for children's toy retail — full product lifecycle: catalog, cart, order processing, payment integration & inventory tracking via a clean RESTful API.
 
-`ASP.NET Core` `EF Core` `SQL Server`
+**Stack:** `.NET` `REST API` `EF Core` `SQL Server`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNoser22/ECom-App)
 
 </td>
 </tr>
@@ -213,10 +323,14 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **B.Sc. Computer & Information Sciences** | Mansoura University | 2022 – 2026 |
-| **Full Stack .NET Track** | Information Technology Institute (ITI) | Jul – Sep 2025 |
+| **B.Sc. Computer & Information Sciences** | Mansoura University, Mansoura, Egypt | 2022 – 2026 |
+| **Full Stack .NET Track** — *Certified* | Information Technology Institute (ITI) | Jul – Sep 2025 |
 
 </div>
+
+## Languages
+
+🇪🇬 **Arabic** &nbsp;•&nbsp; 🇬🇧 **English** &nbsp;•&nbsp; 🇩🇪 **German**
 
 ---
 
@@ -224,11 +338,14 @@ Full e-commerce backend — catalog, cart, order processing, payment integration
 
 ## Let's connect
 
-I'm actively looking for full-stack or backend engineering opportunities.
+I'm actively looking for full-stack or backend engineering opportunities — open to backend roles, collaborations, and interesting engineering challenges.
 If you're building something interesting — let's talk.
+
+📍 Mansoura, Egypt &nbsp;•&nbsp; 📧 [ahmednoseer2004@gmail.com](mailto:ahmednoseer2004@gmail.com) &nbsp;•&nbsp; 📞 01043186404
 
 <a href="mailto:anoser681@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>&nbsp;
 <a href="https://linkedin.com/in/ahmed-noser-3363403b3"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>&nbsp;
+<a href="https://github.com/AhmedNoser22"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>&nbsp;
 <a href="https://wa.me/201553545334"><img src="https://img.shields.io/badge/%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/></a>
 
 </div>
